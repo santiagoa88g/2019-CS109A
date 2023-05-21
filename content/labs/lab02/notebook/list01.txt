@@ -51,8 +51,8 @@
 /book/show/40961427-1984
 /book/show/2956.The_Adventures_of_Huckleberry_Finn
 /book/show/12232938-the-lovely-bones
-/book/show/19543.Where_the_Wild_Things_Are
 /book/show/77203.The_Kite_Runner
+/book/show/19543.Where_the_Wild_Things_Are
 /book/show/35031085-frankenstein
 /book/show/23772.Green_Eggs_and_Ham
 /book/show/4214.Life_of_Pi
@@ -86,8 +86,8 @@
 /book/show/41817486-a-clockwork-orange
 /book/show/6288.The_Road
 /book/show/252577.Angela_s_Ashes
-/book/show/52036.Siddhartha
 /book/show/345627.Vampire_Academy
+/book/show/52036.Siddhartha
 /book/show/119322.The_Golden_Compass
 /book/show/16299.And_Then_There_Were_None
 /book/show/830502.It
