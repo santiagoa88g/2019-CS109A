@@ -13,8 +13,8 @@
 /book/show/5297.The_Picture_of_Dorian_Gray
 /book/show/6185.Wuthering_Heights
 /book/show/72193.Harry_Potter_and_the_Philosopher_s_Stone
-/book/show/10210.Jane_Eyre
 /book/show/22628.The_Perks_of_Being_a_Wallflower
+/book/show/10210.Jane_Eyre
 /book/show/968.The_Da_Vinci_Code
 /book/show/4671.The_Great_Gatsby
 /book/show/24213.Alice_s_Adventures_in_Wonderland_Through_the_Looking_Glass
@@ -86,8 +86,8 @@
 /book/show/41817486-a-clockwork-orange
 /book/show/6288.The_Road
 /book/show/252577.Angela_s_Ashes
-/book/show/345627.Vampire_Academy
 /book/show/52036.Siddhartha
+/book/show/345627.Vampire_Academy
 /book/show/119322.The_Golden_Compass
 /book/show/16299.And_Then_There_Were_None
 /book/show/830502.It
